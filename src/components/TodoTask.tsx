@@ -1,6 +1,6 @@
 import React, { FC } from "react";
 import { Tasks } from "../interfaces";
-import "../index.css";
+// import "../index.css";
 
 interface Task {
   task: Tasks;
